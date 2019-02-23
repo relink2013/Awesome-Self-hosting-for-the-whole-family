@@ -87,20 +87,46 @@ Place holder for a table of contents...as soon as i learn how to make one.
     * Most apps can be found [HERE](https://tvheadend.org/projects/tvheadend/wiki/Clients)
     * MrMc is an additional app for iOS, its basically a "approved" port of Kodi. It requires Paid tier to work with TVHeadend.
 --------------------
+[**NextPVR**](https://www.nextpvr.com/)
+  * INFO/Requirements:
+    * Free
 
-NextPVR - Free
+  * Description:
+    NextPVR is a personal video recorder application for Microsoft Windows, making it easy to watch or record live TV, and provides great features like series recordings, web scheduling, playing music, video and image files, iPhone/iPad client application, Kodi/Emby integration etc.
+    
+  * Official Apps:
+    * [All official apps can be found here](https://www.nextpvr.com/download.html)
 
-Subsonic - Free with paid tier - (Apps List)
+  * 3rd Party Apps:
+    * NONE
+--------------------
+[**Subsonic**](http://www.subsonic.org/pages/index.jsp)
+  * INFO/Requirements:
+    * Free with paid tier
 
-Airsonic - Free - Fork of subsonic
+  * Description:
+    Enjoy your music and movies everywhere.
+Share with family and friends.
 
-Serviio - Free with paid tier
+  * Official Apps:
+    * [All official and 3rd party apps can be found here](http://www.subsonic.org/pages/apps.jsp)
 
-mStream - Free - Seems to be relatively new, Android app is in Alpha and iOS app not yet released.
+  * 3rd Party Apps:
+    * [All official and 3rd party apps can be found here](http://www.subsonic.org/pages/apps.jsp)
+--------------------
+[**Airsonic**](https://airsonic.github.io/)
+  * INFO/Requirements:
+    * Free
 
-Jellyfin - Free - Fairly recent fork of Emby. Android, and Android TV apps are out, and iOS app is in the works. Currently iOS can use Infuse, or VLC to play content.
+  * Description:
+    Airsonic is a free, web-based media streamer, providing ubiquitous access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.
 
-Calibre - Free - eBook manager, uses 3rd party apps.
+  * Official Apps:
+    * NONE
+
+  * 3rd Party Apps:
+    * [All official and 3rd party apps can be found here](https://airsonic.github.io/docs/apps/)
+--------------------
 
 ## Photo Management
 
