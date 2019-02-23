@@ -31,7 +31,7 @@ Place holder for a table of contents...as soon as i learn how to make one.
     * Android - https://play.google.com/store/apps/details?id=com.synology.DSaudio
 
   * 3rd Party Apps:
-  NONE
+    * NONE
 --------------------
 [**Synology Video Station**](https://www.synology.com/en-us/dsm/feature/video_station)
   * INFO/Requirements:
@@ -45,12 +45,11 @@ Place holder for a table of contents...as soon as i learn how to make one.
     * Android - https://play.google.com/store/apps/details?id=com.synology.dsvideo
 
   * 3rd Party Apps:
-  NONE
+    * NONE
 --------------------
 [**Plex**](https://www.plex.tv/)
   * INFO/Requirements:
     * Free with paid tier
-    * Server can run on Linux, Mac, Windows, FreeBSD, and most NAS devices.
 
   * Description:
     Plex brings together all the media that matters to you, organizing your personal collections alongside stellar online content, streaming music, and more, making it all look beautiful in one universal interface. Features include Plex Live TV & DVR, plus a growing catalog of great web shows, news, and podcasts, making it easier than ever to find and enjoy all the media you love in a single app, on any device, no matter where you are.
@@ -61,10 +60,33 @@ Place holder for a table of contents...as soon as i learn how to make one.
   * 3rd Party Apps:
     * [Infuse 5](https://firecore.com/infuse) Free with paid tier, iOS/tvOS only, does not support LiveTV
 --------------------
+[**Emby**](https://emby.media/about.html)
+  * INFO/Requirements:
+    * Free with paid tier
 
-Emby - Free with paid tier
+  * Description:
+    Powerful tools to manage your content, users, sharing, security, and more. The Emby Server dashboard is designed for smart phones, tablets, and big screens, allowing you to manage your media anytime, anywhere.
 
-TVHeadend - Free - iOS and Android use 3rd party TVHClient app, iOS can also use MrMc and Android can use Kodi.
+  * Official Apps:
+    * [All official apps can be found here](https://emby.media/download.html)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+[**TVHeadend**](https://tvheadend.org/)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+    Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, ISDB-T, IPTV, SAT>IP and HDHomeRun as input sources.
+    
+  * Official Apps:
+    * NONE
+
+  * 3rd Party Apps:
+    * Most apps can be found [HERE](https://tvheadend.org/projects/tvheadend/wiki/Clients)
+    * MrMc is an additional app for iOS, its basically a "approved" port of Kodi. It requires Paid tier to work with TVHeadend.
+--------------------
 
 NextPVR - Free
 
