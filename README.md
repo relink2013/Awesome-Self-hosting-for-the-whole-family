@@ -44,7 +44,8 @@ mStream - Free - Seems to be relatively new, Android app is in Alpha and iOS app
 Jellyfin - Free - Fairly recent fork of Emby. Android, and Android TV apps are out, and iOS app is in the works. Currently iOS can use Infuse, or VLC to play content.
 
 Calibre - Free - eBook manager, uses 3rd party apps.
-Photo Management:
+
+## Photo Management
 
 Synology Moments - (requires Synology Diskstation or XPenology)
 
@@ -53,7 +54,8 @@ Synology Photostation - (requires Synology Diskstation or XPenology)
 Piwigo - Free
 
 NextCloud - Free
-Notes, Bookmarks, RSS etc:
+
+## Notes, Bookmarks, RSS etc
 
 Synology Notestation - (requires Synology Diskstation or XPenology) - Similar to Evernote
 
@@ -66,14 +68,16 @@ Wallabag - Free - Very similar to Pocket. Also has browser extensions available.
 Leanote - Free with paid tier
 
 Tiny Tiny RSS - Free - Uses mostly 3rd party apps
-Password Management:
+
+## Password Management
 
 BitWarden - Free -
 
 *Enpass - Free -
 
 *KeePass - Free - Can sync using standard protocols (FTP, WebDAV, etc). 3rd party apps available.
-Home Security/Automation:
+
+## Home Security/Automation
 
 Synology Surveillance Station - (requires Synology Diskstation or XPenology) - First 2 IP cameras are free, Paid License required after 2.
 
@@ -86,12 +90,14 @@ OpenHAB - Free
 Blue Iris - Paid - Server and app are both paid, but reasonably priced.
 
 ZoneMinder - Free - The Zoneminder server is free, apps are all 3rd party, some are free some are paid.
-Office/Productivity:
+
+## Office/Productivity
 
 OnlyOffice - Free to self-host
 
 Collabora - Free - Works best when paired with a self hosted cloud platform such as Nextcloud or Pydio, others are compatible as well. Does not have full mobile apps.
-Files/General Purpose:
+
+## Files/General Purpose
 
 NextCloud - Free
 
@@ -110,7 +116,8 @@ Pydio - Free for home use
 Resilio Sync - Free with paid tier - Formerly Bittorrent Sync.
 
 Seafile - Free Community Edition
-Chat/Communication:
+
+## Chat/Communication
 
 Synology Chat - (requires Synology Diskstation or XPenology)
 
