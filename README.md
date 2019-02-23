@@ -12,7 +12,9 @@ The goal of this list is to curate all self-hosted services available that have 
 * Open source is always preferable, however Proprietary, paid, or even services that need specific/proprietary hardware are all welcome here, and will be specified next to each app.
 
 --------------------
+
 Place holder for a table of contents...as soon as i learn how to make one. 
+
 --------------------
 
 ## Media Management (Movies, TV, Music, Books)
@@ -31,7 +33,19 @@ Place holder for a table of contents...as soon as i learn how to make one.
   * 3rd Party Apps:
   NONE
 
-Synology Video Station - (requires Synology Diskstation or XPenology)
+[**Synology Video Station**](https://www.synology.com/en-us/dsm/feature/video_station)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+
+  * Description:
+    Video Station helps you manage all the movies, TV shows, and home videos on your Synology NAS. Moreover, it can stream videos to various devices — computers, smartphones, media players, and TVs — to provide you with non-stop, fun watching experience.
+
+  * Official Apps:
+    * iOS - https://itunes.apple.com/app/ds-video/id540949418?mt=8
+    * Android - https://play.google.com/store/apps/details?id=com.synology.dsvideo
+
+  * 3rd Party Apps:
+  NONE
 
 Plex - Free with paid tier
 
