@@ -32,7 +32,7 @@ Place holder for a table of contents...as soon as i learn how to make one.
 
   * 3rd Party Apps:
   NONE
-
+--------------------
 [**Synology Video Station**](https://www.synology.com/en-us/dsm/feature/video_station)
   * INFO/Requirements:
     * Synology Disk Station, Synology Rack Station, or XPenology
@@ -46,8 +46,21 @@ Place holder for a table of contents...as soon as i learn how to make one.
 
   * 3rd Party Apps:
   NONE
+--------------------
+[**Plex**](https://www.plex.tv/)
+  * INFO/Requirements:
+    * Free with paid tier
+    * Server can run on Linux, Mac, Windows, FreeBSD, and most NAS devices.
 
-Plex - Free with paid tier
+  * Description:
+    Plex brings together all the media that matters to you, organizing your personal collections alongside stellar online content, streaming music, and more, making it all look beautiful in one universal interface. Features include Plex Live TV & DVR, plus a growing catalog of great web shows, news, and podcasts, making it easier than ever to find and enjoy all the media you love in a single app, on any device, no matter where you are.
+
+  * Official Apps:
+    * [All apps can be found here](https://www.plex.tv/apps-devices/)
+
+  * 3rd Party Apps:
+    * [Infuse 5](https://firecore.com/infuse) Free with paid tier, iOS/tvOS only, does not support LiveTV
+--------------------
 
 Emby - Free with paid tier
 
