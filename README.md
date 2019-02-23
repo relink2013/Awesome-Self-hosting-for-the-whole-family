@@ -12,13 +12,24 @@ The goal of this list is to curate all self-hosted services available that have 
 * Open source is always preferable, however Proprietary, paid, or even services that need specific/proprietary hardware are all welcome here, and will be specified next to each app.
 
 --------------------
-
+Place holder for a table of contents...as soon as i learn how to make one. 
 --------------------
-<!-- BEGIN SOFTWARE LIST -->
 
 ## Media Management (Movies, TV, Music, Books)
 
-Synology Audio Station - (requires Synology Diskstation or XPenology)
+[**Synology Audio Station**](https://www.synology.com/en-us/dsm/feature/audio_station)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+
+  * Description:
+    Enjoy high-quality playback, listen to radios, manage own music collection, create personal playlist and share with friends on Audio Station and its mobile app DS audio everywhere.
+
+  * Official Apps:
+    * iOS - https://itunes.apple.com/app/ds-audio/id321495303?l=zh&mt=8
+    * Android - https://play.google.com/store/apps/details?id=com.synology.DSaudio
+
+  * 3rd Party Apps:
+  NONE
 
 Synology Video Station - (requires Synology Diskstation or XPenology)
 
