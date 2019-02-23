@@ -14,7 +14,7 @@ The goal of this list is to curate all self-hosted services available that have 
 --------------------
 
 -Categories
-  - [Media Management (Movies, TV, Music, Books)](#Media Management (Movies, TV, Music, Books))
+  - [Media Management (Movies, TV, Music, Books)](#Media-Management-(Movies,-TV,-Music,-Books))
 
 --------------------
 <!-- BEGIN SOFTWARE LIST -->
