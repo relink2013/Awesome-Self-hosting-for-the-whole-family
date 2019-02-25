@@ -2,14 +2,14 @@
 # Awesome-Self-hosting-for-the-whole-family
 Self-hosting is the process of locally hosting and managing applications instead of renting from SaaS providers. And 9 times out of 10 it results in a frustrated spouse or family members who end up using "the cloud" anyway because they can't figure out how to use the server you setup.
 
-This is a list for those of us who primarily live on our mobile devices, or have family members who do, but still want the privacy, security, and control of our own data that self-hosting provides.
+This is a list for those of us who primarily live on our mobile devices, or have family members who do, but still want the privacy, security, and control over our own data that self-hosting provides.
 
 The goal of this list is to curate all self-hosted services available that have mobile counterparts.
 
 * All services must have an Android and iOS app to make the list, or at the very least have apps in development.
 * 3rd party apps are ok, so long as it offers all core functionality of the service it is designed to work with.
 * The mobile apps must not need Root or Jailbreak, and must be available through an official Appstore.
-* Open source is always preferable, however Proprietary, paid, or even services that need specific/proprietary hardware are all welcome here, and will be specified next to each app.
+* Open source is always preferable, however Proprietary, paid, or even services that need specific/proprietary hardware are all welcome here.
 
 --------------------
 
@@ -130,11 +130,49 @@ Share with family and friends.
 
 ## Photo Management
 
-Synology Moments - (requires Synology Diskstation or XPenology)
+[**Synology Moments**](https://www.synology.com/en-us/dsm/feature/moments)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
 
-Synology Photostation - (requires Synology Diskstation or XPenology)
+  * Description:
+    Gather all your photos and videos in one private place and organize them in an entirely new way. Synology Moments opens a new era for photo storage, allowing random photos to be automatically sorted by an image-recognizing technique that can identify the people, subjects, and places in the photos.
+    
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/synology-moments/id1284004851?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.moments&hl=en_US)
 
-Piwigo - Free
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Synology Photostation**](https://www.synology.com/en-us/dsm/feature/photo_station)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+
+  * Description:
+    Photo Station lets you efficiently manage photo storage, share and access files on the go, collect client feedback, and do a lot more.
+    
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/ds-photo/id321493106?l=zh&mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Piwigo**](https://piwigo.org/)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+    Piwigo is open source photo gallery software for the web. Designed for organisations, teams and individuals.
+    
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/piwigo/id472225196)
+
+  * 3rd Party Apps:
+    * [Android](https://play.google.com/store/apps/details?id=delit.piwigoclient.paid&hl=en_US)
+--------------------
 
 NextCloud - Free
 
