@@ -15,6 +15,9 @@ The goal of this list is to curate all self-hosted services available that have 
 
 Place holder for a table of contents...as soon as i learn how to make one. 
 
+[Media Management (Movies, TV, Music, Books)](## Media Management (Movies, TV, Music, Books))
+
+
 --------------------
 
 ## Media Management (Movies, TV, Music, Books)
