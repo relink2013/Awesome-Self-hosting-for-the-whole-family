@@ -174,21 +174,97 @@ Share with family and friends.
     * [Android](https://play.google.com/store/apps/details?id=delit.piwigoclient.paid&hl=en_US)
 --------------------
 
-NextCloud - Free
-
 ## Notes, Bookmarks, RSS etc
 
-Synology Notestation - (requires Synology Diskstation or XPenology) - Similar to Evernote
+[**Synology Notestation**](https://www.synology.com/en-us/dsm/feature/note_station)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
 
-*Joplin - Free - While it technically has no server component I figured id include it anyway because its very solid. Only requires a WebDav server.
+  * Description:
+The important and the trivial, in one place yet everywhere. Note Station allows your precious ideas to be synced to all your devices with maximum privacy and security. Having any thoughts or feelings now? Just open the package, then create, edit and enjoy!
 
-StandardNotes - Free to self host - I would love to try this one, but I have never been able to get it working.
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/ds-note/id918177542?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.dsnote&hl=en_US)
 
-Wallabag - Free - Very similar to Pocket. Also has browser extensions available.
+  * 3rd Party Apps:
+    * NONE
+--------------------
 
-Leanote - Free with paid tier
+[**Joplin**](https://joplin.cozic.net/)
+  * INFO/Requirements:
+    * Free
+    * Joplin does not have its own server backend and instead requires keeping clients in sync through a WebDAV server. However WebDAV servers are very easy to self host, and Joplin is a solid app that deserves a place on this list. However Due to not having its own backend, this also means that Joplin has no WebUI and relies on it clients to view notes. 
 
-Tiny Tiny RSS - Free - Uses mostly 3rd party apps
+  * Description:
+Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/joplin/id1315599797)
+    * [Android](https://play.google.com/store/apps/details?id=net.cozic.joplin&utm_source=GitHub&utm_campaign=README&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**StandardNotes**](https://standardnotes.org/)
+  * INFO/Requirements:
+    * Free to self-host
+
+  * Description:
+Standard Notes is a safe place for your notes, thoughts, and life's work. Free, open-source, and completely encrypted.
+
+  * Official Apps:
+    * [iOS](https://standardnotes.org/extensions?downloaded=ios)
+    * [Android](https://standardnotes.org/extensions?downloaded=android)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Wallabag**](https://www.wallabag.org/en)
+  * INFO/Requirements:
+    * Free to self-host
+
+  * Description:
+Save and classify articles. Read them later. Freely. 
+
+  * Official Apps:
+    * [iOS](https://appsto.re/fr/YeqYfb.i)
+    * [Android](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Leanote**](http://leanote.org/)
+  * INFO/Requirements:
+    * Free to self-host
+
+  * Description:
+Use leanote as a notebook/note, manage your knowledge on leanote. Do you like markdown ? don't worry, leanote support it.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/leanote/id1022302858)
+    * [Android](https://qn-cdn.leanote.top/apk/Leanote-v1.0-beta.7.apk) App is still in Beta, so this is a direct link to the Beta APK file. 
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Tiny Tiny RSS**](https://tt-rss.org/)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator
+
+  * Official Apps:
+    *  NONE
+
+  * 3rd Party Apps:
+    * [iOS](https://itunes.apple.com/us/app/tiny-reader-rss/id689519762?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US)
 
 ## Password Management
 
