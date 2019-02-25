@@ -265,14 +265,55 @@ Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader an
   * 3rd Party Apps:
     * [iOS](https://itunes.apple.com/us/app/tiny-reader-rss/id689519762?mt=8)
     * [Android](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US)
+--------------------
 
 ## Password Management
 
-BitWarden - Free -
+[**BitWarden**](https://bitwarden.com/)
+  * INFO/Requirements:
+    * Free
 
-*Enpass - Free -
+  * Description:
+Solve your password management problems. The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. 
 
-*KeePass - Free - Can sync using standard protocols (FTP, WebDAV, etc). 3rd party apps available.
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Enpass**](https://www.enpass.io/)
+  * INFO/Requirements:
+    * Free basic plan, Paid to unlock all features.
+    * Enpass does not have its own server backend and instead requires keeping clients in sync through a WebDAV server. However WebDAV servers are very easy to self host, and Enpass is a solid app that deserves a place on this list. However Due to not having its own backend, this also means that Enpass has no WebUI and relies on its clients to work. 
+
+  * Description:
+Enpass ensures maximum security for your data by using open source and peer reviewed cryptography libraries of SQLCipher engine. Moreover, it is an offline password manager offering you the peace of mind that all your data is with you only and nothing is stored on our servers.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/enpass-password-manager/id455566716)
+    * [Android](https://play.google.com/store/apps/details?id=io.enpass.app)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**KeePass**](https://keepass.info/) - Free - Can sync using standard protocols (FTP, WebDAV, etc). 3rd party apps available.
+  * INFO/Requirements:
+    * Free
+    * Keepass does not have its own server backend and instead requires keeping clients in sync through a WebDAV or FTP server. However WebDAV and FTP servers are very easy to self host, and Keepass is a solid app that deserves a place on this list. However Due to not having its own backend, this also means that Keepass has no WebUI and relies on its clients to work. 
+
+  * Description:
+KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file. So you only have to remember one single master password or select the key file to unlock the whole database. The databases are encrypted using the best and most secure encryption algorithms currently known (AES and Twofish).
+
+  * Official Apps:
+    * NONE
+
+  * 3rd Party Apps:
+    * [All official and 3rd party apps can be found here](https://keepass.info/download.html)
+--------------------
 
 ## Home Security/Automation
 
