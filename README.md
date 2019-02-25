@@ -569,7 +569,20 @@ Seafile is an enterprise file hosting platform with high reliability and perform
 
 ## Chat/Communication
 
-Synology Chat - (requires Synology Diskstation or XPenology)
+[**Synology Chat**](https://www.synology.com/en-us/dsm/feature/chat)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+
+  * Description:
+Synology Chat reduces the time users spend on composing emails and optimizes companies' internal communications. Chat is a messaging service that runs on Synology NAS and transforms the way you collaborate with colleagues.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/synology-chat/id1121875041?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.dschat&hl=en_US)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
 
 Rocket Chat - Free
 
