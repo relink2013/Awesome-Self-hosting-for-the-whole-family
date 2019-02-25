@@ -584,16 +584,110 @@ Synology Chat reduces the time users spend on composing emails and optimizes com
     * NONE
 --------------------
 
-Rocket Chat - Free
+[**Rocket Chat**](https://rocket.chat/)
+  * INFO/Requirements:
+    * Free community edition
 
-Riot.IM/Matrix - Free
+  * Description:
+Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack with the ultimate team chat software solution.
 
-NextCloud - Free
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/rocket-chat/id1148741252)
+    * [Android](https://play.google.com/store/apps/details?id=chat.rocket.android)
 
-Mattermost - Free
+  * 3rd Party Apps:
+    * NONE
+--------------------
 
-Zulip - Free
+[**Matrix**](https://matrix.org/blog/home/)
+  * INFO/Requirements:
+    * Free
 
-*Delta Chat- Free - Uses email as its back end, since you can easily host your own email server it made the list.
+  * Description:
+An open network for secure, decentralized communication.
 
-Confluence - Paid - Ranges from $10 one time fee for a small team setup up to $200k a year for large data center installs.
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/vector.im/id1083446067)
+    * [Android](https://play.google.com/store/apps/details?id=im.vector.alpha)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Nextcloud Talk**](https://nextcloud.com/talk/)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+Screensharing, online meetings & web conferencing without data leaks.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/nextcloud-talk/id1296825574)
+    * [Android](https://play.google.com/store/apps/details?id=com.nextcloud.talk2)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Mattermost**](https://mattermost.com/)
+  * INFO/Requirements:
+    * Free Team Edition
+
+  * Description:
+Mattermost is a flexible, open source messaging platform that meets even the most demanding privacy and security standards. 
+
+  * Official Apps:
+    * [iOS](http://about.mattermost.com/mattermost-ios-app/)
+    * [Android](http://about.mattermost.com/mattermost-android-app/)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Zulip**](https://zulipchat.com/)
+* INFO/Requirements:
+    * Free Community Edition
+
+  * Description:
+Zulip combines the immediacy of real-time chat with an email threading model.
+With Zulip, you can catch up on important conversations while ignoring irrelevant ones. 
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/zulip/id1203036395)
+    * [Android](https://play.google.com/store/apps/details?id=com.zulipmobile)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Delta Chat**](https://delta.chat/en/)
+  * INFO/Requirements:
+    * Free
+    * Does not have its own backend server. Instead Delta Chat relies on using the existing email standards. It is on the list due to being a solid messenger, and the fact that it is fairly simple to self host an email server just for use with this app. Which just barely qualifies it as self hosted. 
+
+  * Description:
+Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Check out our GDPR compliancy statement. Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account. 
+
+  * Official Apps:
+    * [iOS](https://testflight.apple.com/join/WVoYFOZe) Testflight (app is still in beta)
+    * [Android](https://play.google.com/store/apps/details?id=chat.delta)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Confluence**](https://www.atlassian.com/software/confluence)
+  * INFO/Requirements:
+    * Paid
+    * Ranges from $10 one time fee for a small team setup up to $200k a year for large data center installs. 
+
+  * Description:
+Create, collaborate, and keep all your work in one place. Unlike document and file-sharing tools, Confluence is open and accessible, helping your team, and your company do their best work together
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/id1288365159?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.atlassian.confluence.server)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
