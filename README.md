@@ -363,19 +363,69 @@ Open source home automation that puts local control and privacy first. Powered b
     * [Android](https://play.google.com/store/apps/details?id=com.axzae.homeassistant&hl=en_US)
 --------------------
 
-OpenHAB - Free
+[**OpenHAB**](https://www.openhab.org/)
+  * INFO/Requirements:
+    * Free
 
-Blue Iris - Paid - Server and app are both paid, but reasonably priced.
+  * Description:
+a vendor and technology agnostic open source automation software for your home
 
-ZoneMinder - Free - The Zoneminder server is free, apps are all 3rd party, some are free some are paid.
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/openhab/id492054521?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=org.openhab.habdroid)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Blue Iris**](http://blueirissoftware.com/)
+  * INFO/Requirements:
+    * Paid
+
+  * Description:
+Keep an eye on your home, place of business, cars, and valuables; watch your pets or your kids; monitor your nanny, babysitter, or employees. Watch your door for mail, packages or visitors. Use motion detection, audio detection, or capture continuously. Receive alerts via loudspeaker, e-mail or phone.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/blue-iris/id585350145?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.blueirissoftware.blueiris)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**ZoneMinder**](https://zoneminder.com/)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+A full-featured, open source, state-of-the-art video surveillance software system. Monitor your home, office, or wherever you want. Using off the shelf hardware with any camera, you can design a system as large or as small as you need.
+
+  * Official Apps:
+    * NONE
+
+  * 3rd Party Apps:
+    * [iOS](https://itunes.apple.com/us/app/zmninja-pro/id1067914954?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.pliablepixels.zmninja_pro&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+--------------------
 
 ## Office/Productivity
 
-OnlyOffice - Free to self-host
+[**OnlyOffice**](https://www.onlyoffice.com/)
+  * INFO/Requirements:
+    * Free community edition
 
-Collabora - Free - Works best when paired with a self hosted cloud platform such as Nextcloud or Pydio, others are compatible as well. Does not have full mobile apps.
+  * Description:
+ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online. 100% compatible with MS Office formats 
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/onlyoffice-documents/id944896972)
+    * [Android](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)
+
+  * 3rd Party Apps:
+    * NONE
 
 ## Files/General Purpose
+###### Many services in this category may crossover into other categories, so its work checking out the specific features of each service listed here.
 
 NextCloud - Free
 
