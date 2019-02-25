@@ -423,27 +423,149 @@ ONLYOFFICE provides you with the most secure way to create, edit and collaborate
 
   * 3rd Party Apps:
     * NONE
+--------------------
 
 ## Files/General Purpose
 ###### Many services in this category may crossover into other categories, so its work checking out the specific features of each service listed here.
+--------------------
 
-NextCloud - Free
+[**NextCloud**](https://nextcloud.com/)
+  * INFO/Requirements:
+    * Free
 
-OwnCloud - Free
+  * Description:
+Nextcloud offers industry-leading on-premises file sync and online collaboration technology. Our expertise is in combining the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy and control business needs.
 
-Synology Drive - (requires Synology Diskstation or XPenology)
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/nextcloud/id1125420102?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.nextcloud.client)
+    * [Android](https://f-droid.org/packages/com.nextcloud.client/) F-Droid
 
-Synology FileStation - (requires Synology Diskstation or XPenology)
+  * 3rd Party Apps:
+    * NONE
+--------------------
 
-Tonido - Free for personal use
+[**OwnCloud**](https://owncloud.org/)
+  * INFO/Requirements:
+    * Free
 
-Cozy Cloud - Free to self host
+  * Description:
+ownCloud is the most straightforward way to file sync and share data. You don’t need to worry about where or how to access your files. With ownCloud all your data is where ever you are; accessible on all devices, any time.
 
-Pydio - Free for home use
+  * Official Apps:
+    * [iOS](http://itunes.apple.com/us/app/owncloud/id543672169?ls=1&mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.owncloud.android)
 
-Resilio Sync - Free with paid tier - Formerly Bittorrent Sync.
+  * 3rd Party Apps:
+    * NONE
+--------------------
 
-Seafile - Free Community Edition
+[**Synology Drive**](https://www.synology.com/en-us/dsm/feature/drive)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+
+  * Description:
+Synology Drive unifies multiple file portals on Synology NAS and greatly simplifies data management by synchronizing files across various platforms. To fulfill your need for office collaboration, Drive also provides seamless sharing features to ensure that you do not lose important files.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/synology-drive/id1267275421?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.dsdrive)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Synology FileStation**](https://www.synology.com/en-us/knowledgebase/DSM/help/FileStation/FileBrowser_desc)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+
+  * Description:
+File Station is an easy-to-use file management tool, allowing DSM users over the Internet to access Synology NAS folders with their web browsers. By launching two or more File Stations, you can manage all your Synology NAS data by dragging and dropping them between different File Stations.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/ds-file/id416751772?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.DSfile&hl=en_US)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Tonido**](https://www.tonido.com/tonidodesktop_downloads/)
+  * INFO/Requirements:
+    * Free for personal use
+
+  * Description:
+Access, Share and Sync your PC’s Files From Anywhere
+
+  * Official Apps:
+    * [iOS](http://itunes.apple.com/us/app/tonido/id388726418?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.tonido.android)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Cozy Cloud**](https://cozy.io/en/)
+  * INFO/Requirements:
+    * Free for personal use
+
+  * Description:
+Cozy Cloud offers everyone a smart digital home, Cozy that combines comfort and security for more services.
+With Cozy, change the rules and become the only one that control your data.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/cozy-drive/id1224102389?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=io.cozy.drive.mobile&hl=en)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Pydio**](https://pydio.com/)
+  * INFO/Requirements:
+    * Free for personal use
+
+  * Description:
+Modern file management platform built according to your business needs and regulations, Pydio is open-source software deployed on your servers or wherever you decide
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/fr/app/pydio/id709275884)
+    * [Android](https://play.google.com/store/apps/details?id=com.pydio.android.cells&hl=fr)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Resilio**](https://www.resilio.com/) -Formerly Bittorrent Sync.
+  * INFO/Requirements:
+    * Free with paid tier
+
+  * Description:
+Sync All Your Data, Across All Your Devices. Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/id1126282325)
+    * [Android](https://play.google.com/store/apps/details?id=com.resilio.sync&referrer=utm_source%3Dresilio%26utm_medium%3Ddownloads%26utm_campaign%3Dhome)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Seafile**](https://www.seafile.com/en/home/)
+  * INFO/Requirements:
+    * Free community edition
+
+  * Description:
+Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/cn/app/seafile-pro/id639202512?l=en&mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.seafile.seadroid2)
+    * [Android](https://f-droid.org/repository/browse/?fdid=com.seafile.seadroid2) F-Droid
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
 
 ## Chat/Communication
 
