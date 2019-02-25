@@ -312,16 +312,56 @@ KeePass is a free open source password manager, which helps you to manage your p
     * NONE
 
   * 3rd Party Apps:
-    * [All official and 3rd party apps can be found here](https://keepass.info/download.html)
+    * [All 3rd party apps can be found here](https://keepass.info/download.html)
 --------------------
 
 ## Home Security/Automation
 
-Synology Surveillance Station - (requires Synology Diskstation or XPenology) - First 2 IP cameras are free, Paid License required after 2.
+[**Synology Surveillance Station**](https://www.synology.com/en-us/surveillance)
+  * INFO/Requirements:
+    * Synology Disk Station, Synology Rack Station, or XPenology
+    * First 2 IP cameras are free, Paid License required after 2.
 
-Lux Riot - Free for personal use up to 8 cameras
+  * Description:
+Protect your business, home, and other environments with reliable, intuitive Surveillance Station, delivering intelligent monitoring and video management tools to safeguard your valuable assets.
 
-Home Assistant - Free
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/app/ds-cam/id349087111?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.synology.DScam)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Lux Riot**](https://www.luxriot.com/product/ip-camera-software/luxriot-evo/)
+  * INFO/Requirements:
+    * Free for personal use up to 8 cameras
+
+  * Description:
+Delivering an outstanding quality performance, this security and video IP camera software and surveillance system supports over 4000 cameras from major producers and is ideal for use at homes or small offices with surveillance networks of nine cameras or fewer. The meticulously designed interface will allow any user to quickly understand the whole process of configuration and start using the Video Management System software.
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/luxriot-evo-mobile/id1086037968?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=com.Luxriot.evomobile)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
+
+[**Home Assistant**](https://www.home-assistant.io/)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. 
+
+  * Official Apps:
+    * [iOS](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8)
+    * [Android](https://www.home-assistant.io/docs/frontend/mobile/) Progressive Web APP
+
+  * 3rd Party Apps:
+    * [Android](https://play.google.com/store/apps/details?id=com.axzae.homeassistant&hl=en_US)
+--------------------
 
 OpenHAB - Free
 
