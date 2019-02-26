@@ -6,14 +6,16 @@ This is a list for those of us who primarily live on our mobile devices, or have
 
 The goal of this list is to curate all self-hosted services available that have mobile counterparts.
 
-* All services must have an Android and iOS app to make the list, or at the very least have apps in development.
+* All services must have a native Android and iOS app to make the list, or at the very least have apps in active development.
+* PWAs (Progressive web apps) unfortunately do not qualify an app for this list. Atleast not until Apple allows better integration of them on iOS, and stops refreshing them every time you switch to another app. For now they are just too cumbersome, atleast on iOS. 
 * 3rd party apps are ok, so long as it offers all core functionality of the service it is designed to work with.
 * The mobile apps must not need Root or Jailbreak, and must be available through an official Appstore.
-* Open source is always preferable, however Proprietary, paid, or even services that need specific/proprietary hardware are all welcome here.
+* Open source is always preferable, however Proprietary, paid, or even services that need specific/proprietary hardware are all welcome here. This is about ease of use, not soapboxing for FOSS. The intent here is getting people out of the cloud. 
+* The app must beable to function outside of your home network, eg. a DLNA server really doesnt belong on this list, it can work through a VPN but that outside the scope of this list. 
 
 --------------------
 
-Place holder for a table of contents...as soon as i learn how to make one. 
+**Table of Contents**
 
 * [Media Management (Movies, TV, Music, Books)](#Media-Management-Movies-TV-Music-Books)
 * [Photo Management](#Photo-Management)
