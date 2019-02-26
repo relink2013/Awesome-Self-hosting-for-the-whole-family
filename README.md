@@ -28,7 +28,7 @@ Place holder for a table of contents...as soon as i learn how to make one.
 
 ## Media Management (Movies, TV, Music, Books)
 
-[**Synology Audio Station**](https://www.synology.com/en-us/dsm/feature/audio_station) [logo]: https://lh3.googleusercontent.com/IpDly3kGFEDRGl5KB3nOIDaQPMKQ8utJw2IBwes9uJSKKOiEkh9KeucQYagp6Qyk8w4=s180 
+[**Synology Audio Station**](https://www.synology.com/en-us/dsm/feature/audio_station)
   * INFO/Requirements:
     * Synology Disk Station, Synology Rack Station, or XPenology
 
