@@ -64,6 +64,9 @@ The goal of this list is to curate all self-hosted services available that have 
 
   * Description:
     Plex brings together all the media that matters to you, organizing your personal collections alongside stellar online content, streaming music, and more, making it all look beautiful in one universal interface. Features include Plex Live TV & DVR, plus a growing catalog of great web shows, news, and podcasts, making it easier than ever to find and enjoy all the media you love in a single app, on any device, no matter where you are.
+    
+  * Additional Categories:
+    * Photo Management - A newer plex pass feature allows for private photo libraries, complete with automatic tagging, geo location, automatic uploads from mobile devices and more.
 
   * Official Apps:
     * [All official apps can be found here](https://www.plex.tv/apps-devices/)
