@@ -659,7 +659,7 @@ With Cozy, change the rules and become the only one that control your data.
 --------------------
 
 [**Zulip**](https://zulipchat.com/)
-* INFO/Requirements:
+  * INFO/Requirements:
     * Free Community Edition
 
   * Description:
