@@ -15,8 +15,14 @@ The goal of this list is to curate all self-hosted services available that have 
 
 Place holder for a table of contents...as soon as i learn how to make one. 
 
-[Media Management (Movies, TV, Music, Books)](#Media-Management-Movies-TV-Music-Books)
-
+* [Media Management (Movies, TV, Music, Books)](#Media-Management-Movies-TV-Music-Books)
+* [Photo Management](#Photo-Management)
+* [Notes, Bookmarks, RSS, etc](#Notes-Bookmarks-RSS-etc)
+* [Password Management](#Password-Management)
+* [Home Security/Automation](#Home-SecurityAutomation)
+* [Office/Productivity](#OfficeProductivity)
+* [Files/General Purpose](#FilesGeneral-Purpose)
+* [Chat/Communication](#ChatCommunication)
 
 --------------------
 
@@ -177,7 +183,7 @@ Share with family and friends.
     * [Android](https://play.google.com/store/apps/details?id=delit.piwigoclient.paid&hl=en_US)
 --------------------
 
-## Notes, Bookmarks, RSS etc
+## Notes, Bookmarks, RSS, etc
 
 [**Synology Notestation**](https://www.synology.com/en-us/dsm/feature/note_station)
   * INFO/Requirements:
