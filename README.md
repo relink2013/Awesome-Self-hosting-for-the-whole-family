@@ -35,7 +35,7 @@ The goal of this list is to curate all self-hosted services available that have 
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-    Enjoy high-quality playback, listen to radios, manage own music collection, create personal playlist and share with friends on Audio Station and its mobile app DS audio everywhere.
+    * Enjoy high-quality playback, listen to radios, manage own music collection, create personal playlist and share with friends on Audio Station and its mobile app DS audio everywhere.
 
   * Official Apps:
     * iOS - https://itunes.apple.com/app/ds-audio/id321495303?l=zh&mt=8
@@ -49,7 +49,7 @@ The goal of this list is to curate all self-hosted services available that have 
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-    Video Station helps you manage all the movies, TV shows, and home videos on your Synology NAS. Moreover, it can stream videos to various devices — computers, smartphones, media players, and TVs — to provide you with non-stop, fun watching experience.
+    * Video Station helps you manage all the movies, TV shows, and home videos on your Synology NAS. Moreover, it can stream videos to various devices — computers, smartphones, media players, and TVs — to provide you with non-stop, fun watching experience.
 
   * Official Apps:
     * iOS - https://itunes.apple.com/app/ds-video/id540949418?mt=8
@@ -63,10 +63,10 @@ The goal of this list is to curate all self-hosted services available that have 
     * Free with paid tier
 
   * Description:
-    Plex brings together all the media that matters to you, organizing your personal collections alongside stellar online content, streaming music, and more, making it all look beautiful in one universal interface. Features include Plex Live TV & DVR, plus a growing catalog of great web shows, news, and podcasts, making it easier than ever to find and enjoy all the media you love in a single app, on any device, no matter where you are.
+    * Plex brings together all the media that matters to you, organizing your personal collections alongside stellar online content, streaming music, and more, making it all look beautiful in one universal interface. Features include Plex Live TV & DVR, plus a growing catalog of great web shows, news, and podcasts, making it easier than ever to find and enjoy all the media you love in a single app, on any device, no matter where you are.
     
   * Additional Categories:
-    Photo Management - A newer plex pass feature allows for private photo libraries, complete with automatic tagging, geo location, automatic uploads from mobile devices and more.
+    * Photo Management - A newer plex pass feature allows for private photo libraries, complete with automatic tagging, geo location, automatic uploads from mobile devices and more.
 
   * Official Apps:
     * [All official apps can be found here](https://www.plex.tv/apps-devices/)
@@ -79,7 +79,7 @@ The goal of this list is to curate all self-hosted services available that have 
     * Free with paid tier
 
   * Description:
-    Powerful tools to manage your content, users, sharing, security, and more. The Emby Server dashboard is designed for smart phones, tablets, and big screens, allowing you to manage your media anytime, anywhere.
+    * Powerful tools to manage your content, users, sharing, security, and more. The Emby Server dashboard is designed for smart phones, tablets, and big screens, allowing you to manage your media anytime, anywhere.
 
   * Official Apps:
     * [All official apps can be found here](https://emby.media/download.html)
@@ -92,7 +92,7 @@ The goal of this list is to curate all self-hosted services available that have 
     * Free
 
   * Description:
-    Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, ISDB-T, IPTV, SAT>IP and HDHomeRun as input sources.
+    * Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, ISDB-T, IPTV, SAT>IP and HDHomeRun as input sources.
     
   * Official Apps:
     * NONE
@@ -106,7 +106,7 @@ The goal of this list is to curate all self-hosted services available that have 
     * Free
 
   * Description:
-    NextPVR is a personal video recorder application for Microsoft Windows, making it easy to watch or record live TV, and provides great features like series recordings, web scheduling, playing music, video and image files, iPhone/iPad client application, Kodi/Emby integration etc.
+    * NextPVR is a personal video recorder application for Microsoft Windows, making it easy to watch or record live TV, and provides great features like series recordings, web scheduling, playing music, video and image files, iPhone/iPad client application, Kodi/Emby integration etc.
     
   * Official Apps:
     * [All official apps can be found here](https://www.nextpvr.com/download.html)
@@ -119,7 +119,7 @@ The goal of this list is to curate all self-hosted services available that have 
     * Free with paid tier
 
   * Description:
-    Enjoy your music and movies everywhere.
+    * Enjoy your music and movies everywhere.
 Share with family and friends.
 
   * Official Apps:
@@ -133,7 +133,7 @@ Share with family and friends.
     * Free
 
   * Description:
-    Airsonic is a free, web-based media streamer, providing ubiquitous access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.
+    * Airsonic is a free, web-based media streamer, providing ubiquitous access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.
 
   * Official Apps:
     * NONE
@@ -149,7 +149,7 @@ Share with family and friends.
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-    Gather all your photos and videos in one private place and organize them in an entirely new way. Synology Moments opens a new era for photo storage, allowing random photos to be automatically sorted by an image-recognizing technique that can identify the people, subjects, and places in the photos.
+    * Gather all your photos and videos in one private place and organize them in an entirely new way. Synology Moments opens a new era for photo storage, allowing random photos to be automatically sorted by an image-recognizing technique that can identify the people, subjects, and places in the photos.
     
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/synology-moments/id1284004851?mt=8)
@@ -164,7 +164,7 @@ Share with family and friends.
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-    Photo Station lets you efficiently manage photo storage, share and access files on the go, collect client feedback, and do a lot more.
+    * Photo Station lets you efficiently manage photo storage, share and access files on the go, collect client feedback, and do a lot more.
     
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/ds-photo/id321493106?l=zh&mt=8)
@@ -179,7 +179,7 @@ Share with family and friends.
     * Free
 
   * Description:
-    Piwigo is open source photo gallery software for the web. Designed for organisations, teams and individuals.
+    * Piwigo is open source photo gallery software for the web. Designed for organisations, teams and individuals.
     
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/piwigo/id472225196)
@@ -195,7 +195,7 @@ Share with family and friends.
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-The important and the trivial, in one place yet everywhere. Note Station allows your precious ideas to be synced to all your devices with maximum privacy and security. Having any thoughts or feelings now? Just open the package, then create, edit and enjoy!
+    * The important and the trivial, in one place yet everywhere. Note Station allows your precious ideas to be synced to all your devices with maximum privacy and security. Having any thoughts or feelings now? Just open the package, then create, edit and enjoy!
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/ds-note/id918177542?mt=8)
@@ -211,7 +211,7 @@ The important and the trivial, in one place yet everywhere. Note Station allows 
     * Joplin does not have its own server backend and instead requires keeping clients in sync through a WebDAV server. However WebDAV servers are very easy to self host, and Joplin is a solid app that deserves a place on this list. However Due to not having its own backend, this also means that Joplin has no WebUI and relies on it clients to view notes. 
 
   * Description:
-Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.
+    * Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/joplin/id1315599797)
@@ -226,7 +226,7 @@ Joplin is a free, open source note taking and to-do application, which can handl
     * Free to self-host
 
   * Description:
-Standard Notes is a safe place for your notes, thoughts, and life's work. Free, open-source, and completely encrypted.
+    * Standard Notes is a safe place for your notes, thoughts, and life's work. Free, open-source, and completely encrypted.
 
   * Official Apps:
     * [iOS](https://standardnotes.org/extensions?downloaded=ios)
@@ -241,7 +241,7 @@ Standard Notes is a safe place for your notes, thoughts, and life's work. Free, 
     * Free to self-host
 
   * Description:
-Save and classify articles. Read them later. Freely. 
+    * Save and classify articles. Read them later. Freely. 
 
   * Official Apps:
     * [iOS](https://appsto.re/fr/YeqYfb.i)
@@ -256,7 +256,7 @@ Save and classify articles. Read them later. Freely.
     * Free to self-host
 
   * Description:
-Use leanote as a notebook/note, manage your knowledge on leanote. Do you like markdown ? don't worry, leanote support it.
+    * Use leanote as a notebook/note, manage your knowledge on leanote. Do you like markdown ? don't worry, leanote support it.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/leanote/id1022302858)
@@ -271,7 +271,7 @@ Use leanote as a notebook/note, manage your knowledge on leanote. Do you like ma
     * Free
 
   * Description:
-Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator
+    * Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator
 
   * Official Apps:
     *  NONE
@@ -288,7 +288,7 @@ Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader an
     * Free
 
   * Description:
-Solve your password management problems. The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. 
+    * Solve your password management problems. The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. 
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8)
@@ -304,7 +304,7 @@ Solve your password management problems. The easiest and safest way for individu
     * Enpass does not have its own server backend and instead requires keeping clients in sync through a WebDAV server. However WebDAV servers are very easy to self host, and Enpass is a solid app that deserves a place on this list. However Due to not having its own backend, this also means that Enpass has no WebUI and relies on its clients to work. 
 
   * Description:
-Enpass ensures maximum security for your data by using open source and peer reviewed cryptography libraries of SQLCipher engine. Moreover, it is an offline password manager offering you the peace of mind that all your data is with you only and nothing is stored on our servers.
+    * Enpass ensures maximum security for your data by using open source and peer reviewed cryptography libraries of SQLCipher engine. Moreover, it is an offline password manager offering you the peace of mind that all your data is with you only and nothing is stored on our servers.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/enpass-password-manager/id455566716)
@@ -320,7 +320,7 @@ Enpass ensures maximum security for your data by using open source and peer revi
     * Keepass does not have its own server backend and instead requires keeping clients in sync through a WebDAV or FTP server. However WebDAV and FTP servers are very easy to self host, and Keepass is a solid app that deserves a place on this list. However Due to not having its own backend, this also means that Keepass has no WebUI and relies on its clients to work. 
 
   * Description:
-KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file. So you only have to remember one single master password or select the key file to unlock the whole database. The databases are encrypted using the best and most secure encryption algorithms currently known (AES and Twofish).
+    * KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put all your passwords in one database, which is locked with one master key or a key file. So you only have to remember one single master password or select the key file to unlock the whole database. The databases are encrypted using the best and most secure encryption algorithms currently known (AES and Twofish).
 
   * Official Apps:
     * NONE
@@ -337,7 +337,7 @@ KeePass is a free open source password manager, which helps you to manage your p
     * First 2 IP cameras are free, Paid License required after 2.
 
   * Description:
-Protect your business, home, and other environments with reliable, intuitive Surveillance Station, delivering intelligent monitoring and video management tools to safeguard your valuable assets.
+    * Protect your business, home, and other environments with reliable, intuitive Surveillance Station, delivering intelligent monitoring and video management tools to safeguard your valuable assets.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/ds-cam/id349087111?mt=8)
@@ -352,7 +352,7 @@ Protect your business, home, and other environments with reliable, intuitive Sur
     * Free for personal use up to 8 cameras
 
   * Description:
-Delivering an outstanding quality performance, this security and video IP camera software and surveillance system supports over 4000 cameras from major producers and is ideal for use at homes or small offices with surveillance networks of nine cameras or fewer. The meticulously designed interface will allow any user to quickly understand the whole process of configuration and start using the Video Management System software.
+    * Delivering an outstanding quality performance, this security and video IP camera software and surveillance system supports over 4000 cameras from major producers and is ideal for use at homes or small offices with surveillance networks of nine cameras or fewer. The meticulously designed interface will allow any user to quickly understand the whole process of configuration and start using the Video Management System software.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/luxriot-evo-mobile/id1086037968?mt=8)
@@ -367,7 +367,7 @@ Delivering an outstanding quality performance, this security and video IP camera
     * Free
 
   * Description:
-Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. 
+    * Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. 
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8)
@@ -382,7 +382,7 @@ Open source home automation that puts local control and privacy first. Powered b
     * Free
 
   * Description:
-a vendor and technology agnostic open source automation software for your home
+    * a vendor and technology agnostic open source automation software for your home
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/openhab/id492054521?mt=8)
@@ -397,7 +397,7 @@ a vendor and technology agnostic open source automation software for your home
     * Paid
 
   * Description:
-Keep an eye on your home, place of business, cars, and valuables; watch your pets or your kids; monitor your nanny, babysitter, or employees. Watch your door for mail, packages or visitors. Use motion detection, audio detection, or capture continuously. Receive alerts via loudspeaker, e-mail or phone.
+    * Keep an eye on your home, place of business, cars, and valuables; watch your pets or your kids; monitor your nanny, babysitter, or employees. Watch your door for mail, packages or visitors. Use motion detection, audio detection, or capture continuously. Receive alerts via loudspeaker, e-mail or phone.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/blue-iris/id585350145?mt=8)
@@ -412,7 +412,7 @@ Keep an eye on your home, place of business, cars, and valuables; watch your pet
     * Free
 
   * Description:
-A full-featured, open source, state-of-the-art video surveillance software system. Monitor your home, office, or wherever you want. Using off the shelf hardware with any camera, you can design a system as large or as small as you need.
+    * A full-featured, open source, state-of-the-art video surveillance software system. Monitor your home, office, or wherever you want. Using off the shelf hardware with any camera, you can design a system as large or as small as you need.
 
   * Official Apps:
     * NONE
@@ -429,7 +429,7 @@ A full-featured, open source, state-of-the-art video surveillance software syste
     * Free community edition
 
   * Description:
-ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online. 100% compatible with MS Office formats 
+    * ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online. 100% compatible with MS Office formats 
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/onlyoffice-documents/id944896972)
@@ -448,7 +448,7 @@ ONLYOFFICE provides you with the most secure way to create, edit and collaborate
     * Free
 
   * Description:
-Nextcloud offers industry-leading on-premises file sync and online collaboration technology. Our expertise is in combining the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy and control business needs.
+    * Nextcloud offers industry-leading on-premises file sync and online collaboration technology. Our expertise is in combining the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy and control business needs.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/nextcloud/id1125420102?mt=8)
@@ -464,7 +464,7 @@ Nextcloud offers industry-leading on-premises file sync and online collaboration
     * Free
 
   * Description:
-ownCloud is the most straightforward way to file sync and share data. You don’t need to worry about where or how to access your files. With ownCloud all your data is where ever you are; accessible on all devices, any time.
+    * ownCloud is the most straightforward way to file sync and share data. You don’t need to worry about where or how to access your files. With ownCloud all your data is where ever you are; accessible on all devices, any time.
 
   * Official Apps:
     * [iOS](http://itunes.apple.com/us/app/owncloud/id543672169?ls=1&mt=8)
@@ -479,7 +479,7 @@ ownCloud is the most straightforward way to file sync and share data. You don’
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-Synology Drive unifies multiple file portals on Synology NAS and greatly simplifies data management by synchronizing files across various platforms. To fulfill your need for office collaboration, Drive also provides seamless sharing features to ensure that you do not lose important files.
+    * Synology Drive unifies multiple file portals on Synology NAS and greatly simplifies data management by synchronizing files across various platforms. To fulfill your need for office collaboration, Drive also provides seamless sharing features to ensure that you do not lose important files.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/synology-drive/id1267275421?mt=8)
@@ -494,7 +494,7 @@ Synology Drive unifies multiple file portals on Synology NAS and greatly simplif
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-File Station is an easy-to-use file management tool, allowing DSM users over the Internet to access Synology NAS folders with their web browsers. By launching two or more File Stations, you can manage all your Synology NAS data by dragging and dropping them between different File Stations.
+    * File Station is an easy-to-use file management tool, allowing DSM users over the Internet to access Synology NAS folders with their web browsers. By launching two or more File Stations, you can manage all your Synology NAS data by dragging and dropping them between different File Stations.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/ds-file/id416751772?mt=8)
@@ -509,7 +509,7 @@ File Station is an easy-to-use file management tool, allowing DSM users over the
     * Free for personal use
 
   * Description:
-Access, Share and Sync your PC’s Files From Anywhere
+    * Access, Share and Sync your PC’s Files From Anywhere
 
   * Official Apps:
     * [iOS](http://itunes.apple.com/us/app/tonido/id388726418?mt=8)
@@ -524,7 +524,7 @@ Access, Share and Sync your PC’s Files From Anywhere
     * Free for personal use
 
   * Description:
-Cozy Cloud offers everyone a smart digital home, Cozy that combines comfort and security for more services.
+    * Cozy Cloud offers everyone a smart digital home, Cozy that combines comfort and security for more services.
 With Cozy, change the rules and become the only one that control your data.
 
   * Official Apps:
@@ -540,7 +540,7 @@ With Cozy, change the rules and become the only one that control your data.
     * Free for personal use
 
   * Description:
-Modern file management platform built according to your business needs and regulations, Pydio is open-source software deployed on your servers or wherever you decide
+    * Modern file management platform built according to your business needs and regulations, Pydio is open-source software deployed on your servers or wherever you decide
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/fr/app/pydio/id709275884)
@@ -555,7 +555,7 @@ Modern file management platform built according to your business needs and regul
     * Free with paid tier
 
   * Description:
-Sync All Your Data, Across All Your Devices. Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
+    * Sync All Your Data, Across All Your Devices. Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/id1126282325)
@@ -570,7 +570,7 @@ Sync All Your Data, Across All Your Devices. Resilio Sync is a fast, reliable, a
     * Free community edition
 
   * Description:
-Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+    * Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/cn/app/seafile-pro/id639202512?l=en&mt=8)
@@ -588,7 +588,7 @@ Seafile is an enterprise file hosting platform with high reliability and perform
     * Synology Disk Station, Synology Rack Station, or XPenology
 
   * Description:
-Synology Chat reduces the time users spend on composing emails and optimizes companies' internal communications. Chat is a messaging service that runs on Synology NAS and transforms the way you collaborate with colleagues.
+    * Synology Chat reduces the time users spend on composing emails and optimizes companies' internal communications. Chat is a messaging service that runs on Synology NAS and transforms the way you collaborate with colleagues.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/synology-chat/id1121875041?mt=8)
@@ -603,7 +603,7 @@ Synology Chat reduces the time users spend on composing emails and optimizes com
     * Free community edition
 
   * Description:
-Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack with the ultimate team chat software solution.
+    * Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack with the ultimate team chat software solution.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/app/rocket-chat/id1148741252)
@@ -618,7 +618,7 @@ Rocket.Chat is free, unlimited and open source. Replace email, HipChat & Slack w
     * Free
 
   * Description:
-An open network for secure, decentralized communication.
+    * An open network for secure, decentralized communication.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/vector.im/id1083446067)
@@ -633,7 +633,7 @@ An open network for secure, decentralized communication.
     * Free
 
   * Description:
-Screensharing, online meetings & web conferencing without data leaks.
+    * Screensharing, online meetings & web conferencing without data leaks.
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/nextcloud-talk/id1296825574)
@@ -648,7 +648,7 @@ Screensharing, online meetings & web conferencing without data leaks.
     * Free Team Edition
 
   * Description:
-Mattermost is a flexible, open source messaging platform that meets even the most demanding privacy and security standards. 
+    * Mattermost is a flexible, open source messaging platform that meets even the most demanding privacy and security standards. 
 
   * Official Apps:
     * [iOS](http://about.mattermost.com/mattermost-ios-app/)
@@ -663,8 +663,7 @@ Mattermost is a flexible, open source messaging platform that meets even the mos
     * Free Community Edition
 
   * Description:
-Zulip combines the immediacy of real-time chat with an email threading model.
-With Zulip, you can catch up on important conversations while ignoring irrelevant ones. 
+    * Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones. 
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/zulip/id1203036395)
@@ -680,7 +679,7 @@ With Zulip, you can catch up on important conversations while ignoring irrelevan
     * Does not have its own backend server. Instead Delta Chat relies on using the existing email standards. It is on the list due to being a solid messenger, and the fact that it is fairly simple to self host an email server just for use with this app. Which just barely qualifies it as self hosted. 
 
   * Description:
-Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Check out our GDPR compliancy statement. Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account. 
+    * Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Check out our GDPR compliancy statement. Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account. 
 
   * Official Apps:
     * [iOS](https://testflight.apple.com/join/WVoYFOZe) Testflight (app is still in beta)
@@ -696,7 +695,7 @@ Delta Chat is like Telegram or Whatsapp but without the tracking or central cont
     * Ranges from $10 one time fee for a small team setup up to $200k a year for large data center installs. 
 
   * Description:
-Create, collaborate, and keep all your work in one place. Unlike document and file-sharing tools, Confluence is open and accessible, helping your team, and your company do their best work together
+    * Create, collaborate, and keep all your work in one place. Unlike document and file-sharing tools, Confluence is open and accessible, helping your team, and your company do their best work together
 
   * Official Apps:
     * [iOS](https://itunes.apple.com/us/app/id1288365159?mt=8)
