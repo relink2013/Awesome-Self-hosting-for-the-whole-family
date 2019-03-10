@@ -285,7 +285,7 @@ Share with family and friends.
 
 [**BitWarden**](https://bitwarden.com/)
   * INFO/Requirements:
-    * Free
+    * official server is free with limited funtionality, however an alternative server, [Birwarden_RS](https://github.com/dani-garcia/bitwarden_rs) esxits, which is completely free, opensource, supports all features (as of writing this), and is compatible with all Bitwarden clients. 
 
   * Description:
     * Solve your password management problems. The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. 
