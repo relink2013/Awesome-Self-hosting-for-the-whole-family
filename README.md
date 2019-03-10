@@ -413,13 +413,28 @@ Share with family and friends.
 
   * Description:
     * A full-featured, open source, state-of-the-art video surveillance software system. Monitor your home, office, or wherever you want. Using off the shelf hardware with any camera, you can design a system as large or as small as you need.
-
+    
   * Official Apps:
     * NONE
 
   * 3rd Party Apps:
     * [iOS](https://itunes.apple.com/us/app/zmninja-pro/id1067914954?mt=8)
     * [Android](https://play.google.com/store/apps/details?id=com.pliablepixels.zmninja_pro&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+--------------------
+
+**FHEM**](https://www.fhem.de/#Description)
+  * INFO/Requirements:
+    * Free
+
+  * Description:
+    * FHEM (TM) is a GPL'd perl server for house automation. It is used to automate some common tasks in the household like switching lamps / shutters / heating / etc. and to log events like temperature / humidity / power consumption.
+
+  * Official Apps:
+    * NONE
+
+  * 3rd Party Apps:
+    * [iOS](https://itunes.apple.com/de/app/fhem-remote/id652723412?mt=8)
+    * [Android](https://play.google.com/store/apps/details?id=li.klass.fhem&hl=de)
 --------------------
 
 ## Office/Productivity
