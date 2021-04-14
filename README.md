@@ -704,18 +704,3 @@ With Cozy, change the rules and become the only one that control your data.
     * NONE
 --------------------
 
-[**Confluence**](https://www.atlassian.com/software/confluence)
-  * INFO/Requirements:
-    * Paid
-    * Ranges from $10 one time fee for a small team setup up to $200k a year for large data center installs. 
-
-  * Description:
-    * Create, collaborate, and keep all your work in one place. Unlike document and file-sharing tools, Confluence is open and accessible, helping your team, and your company do their best work together
-
-  * Official Apps:
-    * [iOS](https://itunes.apple.com/us/app/id1288365159?mt=8)
-    * [Android](https://play.google.com/store/apps/details?id=com.atlassian.confluence.server)
-
-  * 3rd Party Apps:
-    * NONE
---------------------
