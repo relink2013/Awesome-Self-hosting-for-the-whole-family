@@ -719,3 +719,19 @@ With Cozy, change the rules and become the only one that control your data.
   * 3rd Party Apps:
     * NONE
 --------------------
+
+[**IndiView**](https://github.com/rolandosborne/IndiView)
+  * INFO/Requirements:
+    * Free
+    * Requires selfhosting of Diatum CoreDB (https://github.com/diatum-org/coredb/blob/containerize/tools/coredb_node_arm64.yaml)
+
+  * Description:
+    * Supports instant messaging and sharing of pictures, videos and contact details.
+
+  * Official Apps:
+    * [iOS](https://apps.apple.com/us/app/indiview/id1569089072)
+    * [Android](https://play.google.com/store/apps/details?id=com.indiview)
+
+  * 3rd Party Apps:
+    * NONE
+--------------------
